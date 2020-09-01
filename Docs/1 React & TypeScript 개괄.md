@@ -75,7 +75,7 @@
 
   </div>
   </details>
-  
+
 ---
 ## 1. TypeScript
 
@@ -111,7 +111,7 @@ let age: Age = 10;
 
     [*Runtime]*  Compile Time 이후
 
-- **객체(Object)**에 **Type Alias** 적용
+- **객체(Object)** 에 **Type Alias** 적용
 
     ```tsx
     type Foo = {
@@ -186,14 +186,15 @@ React **기본 프로젝트 만들기** (Node.js 설치되어 있음을 전제)
 
     나는 저대로 따라했는데 안됐다. 그래서 npx를 이용함
 
+
 <details>
 <summary>React - TypeScript APP 기본 구조</summary>
 <div markdown="1">
+
 ![Untitled](https://user-images.githubusercontent.com/43839938/91884945-e69b4480-ecc1-11ea-88ec-9edee246d6c5.png)
+
 </div>
 </details>
-
-
 
 **tsconfig.json** (typescript 설정파일)
 
